@@ -15,6 +15,8 @@ Social networks | Contact
 <p>
 <a href="https://www.linkedin.com/in/kaio-candido-9813b0285/" target=blank>LinKedin<a>
 
+<br>
+<br>
 
 
 [![KaioGitHub stats](https://github-readme-stats.vercel.app/api?username=kaiocandido)](https://github.com/anuraghazra/github-readme-stats)
