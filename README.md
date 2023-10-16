@@ -11,7 +11,7 @@ I am currently working on projects with the following languages:
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="logo" width=100px height=30px>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="logo" width=100px height=30px>
 
-Redes sociais | Contato 
+Social networks | Contact
 <p>
 <a href="https://www.linkedin.com/in/kaio-candido-9813b0285/" target=blank>LinKedin<a>
 
