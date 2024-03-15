@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Kaio, I'm 22 years old, I'm a Front End programmer, I'm currently studying and starting to develop skills and gaining knowledge to be a Full Stack programmer.
+I'm Kaio, I'm 23 years old, I'm a Front End programmer, I'm currently studying and starting to develop skills and gaining knowledge to be a Full Stack programmer.
 <br>
 <br>
 I am currently working on projects with the following languages:
