@@ -20,7 +20,7 @@ Estou trabalhando com as seguintes tecnologias:
 
 Adoraria conectar! Você pode entrar em contato através dos meus perfis sociais:
 
-- [LinkedIn](https://www.linkedin.com/in/kaio-candido-9813b0285/)  
+- [LinkedIn](https://www.linkedin.com/in/kaio-c-9813b0285/)  
 
 ---
 
