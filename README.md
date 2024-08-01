@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Kaio 👋
 
-Sou um desenvolvedor Front End de 23 anos, atualmente expandindo minhas habilidades para me tornar um programador Full Stack. Com uma paixão profunda por codificação, estou continuamente aprendendo e crescendo no campo da tecnologia.
+Sou um desenvolvedor Full Stack, atualmente expandindo minhas habilidades para me tornar um programador Full Stack. Com uma paixão profunda por codificação, estou continuamente aprendendo e crescendo no campo da tecnologia.
 
 ---
 
