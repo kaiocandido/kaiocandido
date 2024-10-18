@@ -1,4 +1,4 @@
-### Olá! Eu sou o Kaio 👋
+### Olá! Eu sou o Kaio!!
 
 Sou um desenvolvedor novo na aréa, atualmente expandindo minhas habilidades para me tornar um programador Full Stack. Com uma paixão profunda por codificação, estou continuamente aprendendo e crescendo no campo da tecnologia.
 
