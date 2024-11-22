@@ -44,11 +44,6 @@ Aqui está uma visão detalhada da minha atividade no GitHub:
   </a>
 </p>
 
-<p>
-  <a href="https://github.com/kaiocandido/your-repo-name">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kaiocandido&repo=your-repo-name&theme=github_dark" alt="Repositório Fixado" width="400">
-  </a>
-</p>
 
 <p>
   <img src="https://img.shields.io/github/stars/kaiocandido/your-repo-name?style=flat&logo=github&logoColor=white" alt="Estrelas" width="150">
@@ -61,10 +56,6 @@ Aqui está uma visão detalhada da minha atividade no GitHub:
 
 <!-- Animações e Estatísticas Dinâmicas -->
 
-<p>
-  <!-- Gráfico de Estatísticas Dinâmico -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaiocandido&theme=github-dark-blue" alt="Gráfico de Estatísticas" width="400">
-</p>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=kaiocandido&color=brightgreen" alt="Visualizações do Perfil">
