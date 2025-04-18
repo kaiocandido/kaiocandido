@@ -37,19 +37,14 @@ I am a new developer in the field, currently expanding my skills to become a Ful
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kaiocandido&show_icons=true&count_private=true&theme=github_dark" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiocandido&layout=compact&theme=github_dark" width="400" />
+  <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kaiocandido&theme=github_dark" />
+</p>
+
 </p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kaiocandido&theme=onedark&no-frame=true&row=1&column=6" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=kaiocandido&theme=github-compact" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kaiocandido&color=brightgreen" alt="Profile Views">
 </p>
 
 ---
@@ -57,9 +52,8 @@ I am a new developer in the field, currently expanding my skills to become a Ful
 ## 🚀 Featured Projects
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaiocandido&theme=dark" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=kaiocandido&theme=github-dark&hide_border=true" alt="GitHub Streak"/>
 </p>
-
 
 ---
 ## 🐍 Snake Commit Animation
