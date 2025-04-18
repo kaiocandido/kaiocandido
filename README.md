@@ -64,5 +64,5 @@ I am a new developer in the field, currently expanding my skills to become a Ful
 ---
 ## 🐍 Snake Commit Animation
 
-![snake gif](https://github.com/kaiocandido/kaiocandido/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/kaiocandido/kaiocandido/blob/output/snake.svg)
 
