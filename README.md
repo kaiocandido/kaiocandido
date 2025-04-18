@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Kaio!;Aspiring+Full+Stack+Developer;Passionate+about+technology+and+challenges" alt="Typing SVG" />
 </p>
 
-
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px">
 </p>
