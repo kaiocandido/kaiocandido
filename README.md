@@ -61,9 +61,6 @@ I am a new developer in the field, currently expanding my skills to become a Ful
 
 
 ---
+## 🐍 Snake Commit Animation
 
-## 🔄 Snake Commit Animation
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaiocandido&theme=dark" alt="Streak Stats" />
-</p>
+![Snake animation](https://github.com/YOUR-USERNAME/YOUR-USERNAME/blob/output/github-contribution-grid-snake.svg)
