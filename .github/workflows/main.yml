@@ -15,8 +15,8 @@ jobs:
         id: snake-gif
         with:
           github_user_name: kaiocandido
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          gif_out_path: snake.svg
+          svg_out_path: snake.svg
 
       - run: git status
 
