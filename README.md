@@ -48,14 +48,6 @@ I am a new developer in the field, currently expanding my skills to become a Ful
 </p>
 
 ---
-
-## 🚀 Featured Projects
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=kaiocandido&theme=github-dark&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
 ## 🐍 Snake Commit Animation
 
 ![snake gif](https://github.com/kaiocandido/kaiocandido/blob/output/snake.svg)
