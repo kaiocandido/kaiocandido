@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me
 
-I am a new developer in the field, currently expanding my skills to become a Full Stack Developer. With a deep passion for coding, I am continuously learning and growing in the tech industry.
+I am a new developer in the field, currently expanding my skills to become a Software Developer. With a deep passion for coding, I am continuously learning and growing in the tech industry.
 
 - 🌟 Learning modern technologies like React, Node.js, and relational databases  
 - 🚀 Focused on evolving as a full stack developer  
