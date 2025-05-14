@@ -11,21 +11,11 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: Platane/snk@master
-        id: snake-gif
+      - uses: Platane/snk@v3
         with:
           github_user_name: kaiocandido
-          gif_out_path: snake.svg
-          svg_out_path: snake.svg
-
-      - run: git status
-
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main
-          force: true
+          gif_out_path: dist/snake.gif
+          svg_out_path: dist/snake.svg
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
