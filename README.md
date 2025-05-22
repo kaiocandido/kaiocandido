@@ -13,7 +13,7 @@
 
 I am a new developer in the field, currently expanding my skills to become a Software Developer. With a deep passion for coding, I am continuously learning and growing in the tech industry.
 
-- 🌟 Learning modern technologies like React, Node.js, and relational databases  
+- 🌟 Learning modern technologies like React, Node.js, Java and relational databases  
 - 🚀 Focused on evolving as a full stack developer  
 - 💬 Open to collaborations and projects  
 - 📫 Contact: [LinkedIn](https://www.linkedin.com/in/kaio-c-9813b0285/)
