@@ -55,11 +55,6 @@ I am a new developer in the field, currently expanding my skills to become a Sof
 </p>
 
 ---
-## 🐍 Snake Commit Animation
-
-![snake gif](https://github.com/kaiocandido/kaiocandido/blob/output/snake.svg)
-
----
 <p align="center">
   <img src="https://img.shields.io/github/stars/kaiocandido/kaiocandido?style=flat&logo=github&logoColor=white" alt="Estrelas"/>
   <img src="https://img.shields.io/github/forks/kaiocandido/kaiocandido?style=flat&logo=github&logoColor=white" alt="Forks"/>
