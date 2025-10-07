@@ -6,9 +6,9 @@
   />
 </p>
 
-<!-- Minimal, loop-friendly coding GIF (troquei o anterior) -->
+<!-- GIF autoplay (usa .gif direto, inicia sozinho e em loop) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="560" alt="Clean coding loop">
+  <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="560" alt="Clean coding loop" />
 </p>
 
 <div align="center">
@@ -56,7 +56,7 @@ Growing toward **full-stack** with **Java + Spring**, **React**, and **Node.js**
 - 🧪 Automated tests where it matters  
 - 🧹 Readable code, clear commit messages, and runnable docs
 
-<!-- Accent (tirei o símbolo do Python; usei um ícone SVG leve) -->
+<!-- Acento visual sem Python -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/rocket.svg" width="48" alt="Rocket icon">
 </p>
@@ -129,9 +129,4 @@ Growing toward **full-stack** with **Java + Spring**, **React**, and **Node.js**
 
 ---
 
-<!-- Notes:
-- GIFs trocados por opções leves e loop-friendly.
-- Nenhum ícone/anim do Python.
-- "theme=transparent" adapta ao light/dark do GitHub.
-- Mantenha alt text para acessibilidade.
--->
+
