@@ -81,13 +81,6 @@ Growing toward **full-stack** with **Java + Spring**, **React**, and **Node.js**
   />
 </p>
 
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=kaiocandido&theme=transparent" 
-    width="420" 
-    alt="GitHub streak"
-  />
-</p>
 
 <p align="center">
   <img 
