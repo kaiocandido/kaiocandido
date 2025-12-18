@@ -62,7 +62,3 @@ Atualmente trabalho e estudo com **Java + Spring**, **React** e **Node.js**, sem
 - 💬 Aberto a colaborações e feedbacks
 
 ---
-
-<p align="center">
-  <i>Always learning. Always building.</i>
-</p>
