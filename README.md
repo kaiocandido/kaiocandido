@@ -15,14 +15,14 @@
 ---
 
 ## 🧠 Sobre mim
-Desenvolvedor **Full-Stack em evolução**, focado em **fundamentos sólidos**, **boas práticas** e construção de aplicações modernas.
+Sou desenvolvedor **Full-Stack** com foco em **Backend**, apaixonado por **boas práticas**, **código limpo** e construção de soluções escaláveis.
 
-Atualmente trabalho e estudo com **Java + Spring**, **React** e **Node.js**, sempre aplicando conceitos de **Clean Code**, **testes automatizados** e **arquitetura bem definida**.
+Atualmente trabalho e estudo com **Java + Spring**, **React** e **Node.js**, aplicando conceitos como **Clean Code**, **testes automatizados** e **arquitetura bem definida** em projetos reais.
 
-- 🎯 Foco: Backend & Full-Stack  
+- 🎯 Foco principal: Backend & APIs  
 - 🧪 Testes: JUnit, Mockito  
 - 🚀 Práticas: Docker, CI/CD, APIs REST  
-- 📚 Aprendizado contínuo e projetos práticos  
+- 📚 Aprendizado contínuo e desenvolvimento orientado a projetos  
 
 ---
 
@@ -34,11 +34,10 @@ Atualmente trabalho e estudo com **Java + Spring**, **React** e **Node.js**, sem
 
 ---
 
-## 📊 Estatísticas
+## 📊 Atividade no GitHub
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=kaiocandido&show_icons=true&theme=transparent" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiocandido&layout=compact&theme=transparent" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaiocandido&theme=github-dark&hide_border=true" />
 </p>
 
 ---
@@ -46,19 +45,19 @@ Atualmente trabalho e estudo com **Java + Spring**, **React** e **Node.js**, sem
 ## 🧩 Projetos em Destaque
 
 - **Spring Boot REST API**  
-  CRUD, validações, arquitetura em camadas, PostgreSQL + Docker
+  API REST com CRUD completo, validações, arquitetura em camadas, integração com PostgreSQL e Docker.
 
 - **Java Exceptions Study**  
-  `throw`, `throws`, checked vs unchecked, exemplos práticos
+  Estudo prático sobre `throw`, `throws`, exceções checked e unchecked, com exemplos claros e didáticos.
 
 - **React Components UI**  
-  Componentes reutilizáveis, hooks e consumo de APIs
+  Biblioteca de componentes reutilizáveis utilizando hooks e consumo de APIs.
 
 ---
 
 ## 🤝 Contato
 
 - 💼 LinkedIn: [Kaio Candido](https://www.linkedin.com/in/kaio-c-9813b0285/)
-- 💬 Aberto a colaborações e feedbacks
+- 💬 Aberto a colaborações, feedbacks e oportunidades
 
 ---
